@@ -33,7 +33,7 @@ img {
 }
 
 img:hover {
-	transform: rotate(-15deg);
+	transform: rotate(-5deg) scale(1.1);
 }
 
 /* -- Row 2 --------- */
